@@ -8,3 +8,4 @@
 - [LeetCode](https://leetcode.com/zdbolin/)
 - [YouTube](https://www.youtube.com/feed/subscriptions)
 - [GoogleDrive](https://drive.google.com/drive/)
+- [Weather](https://www.yahoo.com/news/weather/)
