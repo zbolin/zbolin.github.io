@@ -1,7 +1,7 @@
 
 ## Useful Stuff
 
-[Bookmarks](Bookmarks/index.md)
+[Favorite Websites](Bookmarks/index.md)
 
 ## Welcome to GitHub Pages
 
