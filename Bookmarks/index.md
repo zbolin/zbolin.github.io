@@ -1,6 +1,2 @@
-[YouTube](https://www.youtube.com)
-[ACloudGuru](https://www.acloudguru.com)
-[Composer](https://www.composer.trade)
-[LeetCode](https://www.leetcode.com)
-[Robinhood](https://www.robinhood.com)
-[Draw io](https://www.diagrams.net)
+Google
+Youtube
