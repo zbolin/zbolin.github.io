@@ -1,9 +1,9 @@
 ## Bookmarks
 - [A Cloud Guru](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 - [Composer](https://app.composer.trade/portfolio)
+- [DraftStrategy](https://fantasy.espn.com/football/editdraftstrategy?leagueId=1312984193)
 - [Draw.IO](https://app.diagrams.net/)
 - [G-Mail](https://mail.google.com/mail/u/0/#inbox)
+- [GitHub](https://github.com/zbolin/)
 - [LeetCode](https://leetcode.com/zdbolin/)
 - [YouTube](https://www.youtube.com/feed/subscriptions)
-- [DraftStrategy](https://fantasy.espn.com/football/editdraftstrategy?leagueId=1312984193)
-- [GitHub](https://github.com/zbolin/)
