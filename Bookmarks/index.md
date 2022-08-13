@@ -1,9 +1,0 @@
-## Bookmarks
-- [A Cloud Guru](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
-- [Draw.IO](https://app.diagrams.net/)
-- [G-Mail](https://mail.google.com/mail/u/0/#inbox)
-- [GitHub](https://github.com/zbolin/)
-- [Google Drive](https://drive.google.com/drive/)
-- [LeetCode](https://leetcode.com/zdbolin/)
-- [Weather](https://www.yahoo.com/news/weather/)
-- [YouTube](https://www.youtube.com/feed/subscriptions)
